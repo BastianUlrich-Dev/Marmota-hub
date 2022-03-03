@@ -10,13 +10,13 @@
 
 Metodologia: BEM
 
-Nivel alto
+Nivel alto: 
 Html5, Css3, JavaScript, Figma
 
-Nivel medio
+Nivel medio: 
 Angular, Bootstrap, Java, Mysql, Firebase, Scss.
 
-Nivel básico
+Nivel básico: 
 React.js, PHP, Git, UX/UI.
 
 ##RESUMEN CV.
