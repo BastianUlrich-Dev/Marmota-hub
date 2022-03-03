@@ -5,6 +5,7 @@
 - 🤔 Busco ayuda para aprender las mejores prácticas y nuevas tecnologías.
 - 💬 Pregúntame sobre cualquier cosa.
 - 📫 Cómo contactar conmigo: bastianjorquera8@gmail.com.
+- 😎 Portafolio: https://www.bastiandev.com
 - ⚡ Dato curioso: me gusta el arte, la música y la fotografía. también me gusta salir en bicicleta.
 
 Metodologia: BEM
