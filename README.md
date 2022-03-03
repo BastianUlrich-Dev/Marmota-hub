@@ -18,7 +18,7 @@ Angular, Bootstrap, Java, Mysql, Firebase, Scss.
 Nivel básico
 React.js, PHP, Git, UX/UI.
 
-Resumen cv.
+##RESUMEN CV.
 
 Analista programador con experiencia en desarrollo de módulos.
 Experiencia en Front-end utilizando Html5, JavaScript, Css, Scss, Bootstrap,
