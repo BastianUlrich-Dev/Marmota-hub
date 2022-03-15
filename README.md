@@ -17,7 +17,7 @@ Nivel medio:
 Angular, Bootstrap, Java, Mysql, Firebase, Scss.
 
 Nivel básico: 
-React.js, PHP, Git, UX/UI.
+React.js, PHP, Git, UX/UI, Express.
 
 ##RESUMEN CV.
 
