@@ -8,7 +8,7 @@
 - 😎 Portafolio: https://www.bastiandev.com
 - ⚡ Dato curioso: me gusta el arte, la música y la fotografía. también me gusta salir en bicicleta.
 
-Metodologia: BEM
+Metodologia front-end: BEM
 
 Nivel alto: 
 Html5, Css3, JavaScript, Figma
