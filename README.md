@@ -24,7 +24,7 @@ React.js, PHP, Git, UX/UI, Express.
 Analista programador con experiencia en desarrollo de módulos.
 Experiencia en Front-end utilizando Html5, JavaScript, Css, Scss, Bootstrap,
 además de contar con conocimientos de librería react.js y framework
-Angular. Experiencia en Back-end con lenguaje php y java. Por otra parte,
+Angular. Experiencia en Back-end con lenguaje php, java y node.js con express.js. Por otra parte,
 experiencia con Base de datos mysql y conocimiento Firebase. prototipado
 con Figma. manejo de GIT y conocimientos básico UX/UI. Sobre fortalezas,
 gran capacidad de aprendizaje autónomo con el objetivo de buscar
